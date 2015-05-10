@@ -24,7 +24,7 @@ public class Componente implements Comparable<Componente>{
 			probabilidades.add(new Double(v[i]));
 		}
 
-	}
+	}//
 
 	
 
